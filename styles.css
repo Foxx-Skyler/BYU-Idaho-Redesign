@@ -2,6 +2,7 @@ header {
   width: 163px;
 }
 
+
 #grid {
   display: grid;
   grid-template-rows: 50vh repeat(4, 1fr);
