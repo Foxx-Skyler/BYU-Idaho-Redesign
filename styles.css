@@ -12,6 +12,7 @@
   padding: 10px;
   background: gold;
 }
+
 #grid > div:nth-child(1) {
   grid-column: span 4;
   }
